@@ -1,6 +1,6 @@
 Group 45
 ===
-Group Activity - Benchmark & Brainstorm
+Group Activity - Benchmark & Brainstorm - Week 1
 
 ## Favorite Existing Apps - List
 1. Todoist
