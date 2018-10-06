@@ -96,7 +96,7 @@ Group 45
    - **Scope:**  Can start with a resource bank and chat room, and expand to a more "Tinder" style where you match with other users with similar goals (ex. develop skills, hang out at events, etc.)
 3. Local Produce Delivery 
    - **Description:** Order locally sourced groceries on the app to get them delivered to your house
-   - - **Category:** Lifestyle
+   - **Category:** Lifestyle
    - **Mobile:** Mobile
    - **Story:**  Match farmer's markets and local stores/vendors with users to order produce directly
    - **Market:** For all those who buy food and grocery shop. Especially helpful for busy and disabled users, who are unable to make it to the store
