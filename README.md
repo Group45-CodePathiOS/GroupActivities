@@ -76,7 +76,7 @@ Area to foster a community between local CS individuals. Has the ability to conn
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+Interactive Prototype: g.recordit.co/20GiCqOn0K.gif
 
 ---
 
